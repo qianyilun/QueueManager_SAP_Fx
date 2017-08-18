@@ -9,8 +9,8 @@
         <module name="QueueManager_SAP_Fx" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="QueueManager_SAP_Fx" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="QueueManager_SAP_Fx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
